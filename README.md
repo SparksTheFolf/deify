@@ -1,2 +1,5 @@
-# deify
-deify
+# Soup Lang Interpretation
+
+### Info
+
+Still writing
